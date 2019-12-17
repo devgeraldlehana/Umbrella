@@ -1,5 +1,7 @@
 # Umbrella #
 
+Unfortunately all the commits I had previously made were done on my work user details, Had to recommit with one big commit which is bad git etiquette.
+
 Based on the size of the app I decided that viper would be an over kill with architecture. I decided to to use my understanding of MVVM.
 I tried to refrain from using pods to limit the amount of dependencies and created one Get url session function since all calls are gets and not a genric one.
 
